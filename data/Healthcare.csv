@@ -1,0 +1,181 @@
+Encounter_ID,Encounter_Date,Facility,Region,Service_Line,Patient_ID,Patient_Age,Patient_Sex,Provider_ID,Visit_Status,Wait_Time_Min,Visit_Duration_Min,Cost_CAD,Payer_Type,Outcome_Status,Satisfaction_Score
+E0001,2026-01-07,Northside Medical Centre,North,Diabetes Education,PT0014,38,X,P008,Completed,23.6,41.2,234.77,Employer Plan,Improved,4
+E0002,2026-01-09,River Valley Clinic,Central,Cardiology,PT0027,73,F,P015,Completed,38.6,32.2,320.73,Private,Improved,5
+E0003,2026-01-11,Westgate Health Hub,West,Sleep Clinic,PT0040,63,F,P004,Completed,48.7,62.4,371.63,Public,Stable,4
+E0004,2026-01-13,South Edmonton Care Centre,South,Respiratory,PT0053,18,X,P011,Completed,47.3,50.3,292.09,Employer Plan,Follow-up Required,4
+E0005,2026-01-15,Northside Medical Centre,North,Primary Care,PT0066,62,X,P018,Completed,22.1,51.6,153.51,Private,Improved,5
+E0006,2026-01-17,River Valley Clinic,Central,Diabetes Education,PT0079,67,M,P007,Completed,26.3,38.5,232.35,Public,Improved,5
+E0007,2026-01-19,Westgate Health Hub,West,Cardiology,PT0092,63,X,P014,Completed,35.8,31.0,363.22,Employer Plan,Improved,4
+E0008,2026-01-21,South Edmonton Care Centre,South,Sleep Clinic,PT0105,68,M,P003,Cancelled,55.9,34.7,232.49,Private,Stable,
+E0009,2026-01-23,Northside Medical Centre,North,Diabetes Education,PT0118,,M,P010,Completed,32.8,27.3,187.33,Public,Stable,4
+E0010,2026-01-25,River Valley Clinic,Central,Cardiology,PT0006,84,F,P017,Completed,16.1,49.0,399.16,Employer Plan,Improved,4
+E0011,2026-01-27,Westgate Health Hub,West,Sleep Clinic,PT0019,64,F,P006,Completed,53.6,51.1,331.32,Private,Stable,4
+E0012,2026-01-29,South Edmonton Care Centre,South,Respiratory,PT0032,53,M,P013,Completed,35.5,21.1,336.16,Public,Improved,5
+E0013,2026-01-31,Northside Medical Centre,North,Primary Care,PT0045,84,F,P002,Completed,36.1,28.8,144.59,Employer Plan,Improved,3
+E0014,2026-02-02,River Valley Clinic,Central,Diabetes Education,PT0058,73,F,P009,Completed,17.7,38.3,233.93,Private,Follow-up Required,3
+E0015,2026-02-04,Westgate Health Hub,West,Cardiology,PT0071,26,M,P016,Completed,37.1,36.1,411.13,Public,Improved,5
+E0016,2026-02-06,South Edmonton Care Centre,South,Sleep Clinic,PT0084,65,M,P005,No Show,42.7,70.7,408.32,Employer Plan,Improved,
+E0017,2026-02-08,Northside Medical Centre,North,Respiratory,PT0097,67,F,P012,Completed,24.5,47.5,380.7,Private,Stable,5
+E0018,2026-02-10,River Valley Clinic,Central,Cardiology,PT0110,31,F,P001,Completed,56.5,25.5,353.33,Public,Improved,5
+E0019,2026-02-12,Westgate Health Hub,West,Sleep Clinic,PT0123,67,X,P008,Completed,48.8,64.7,297.63,Employer Plan,Stable,4
+E0020,2026-02-14,South Edmonton Care Centre,South,Respiratory,PT0011,61,F,P015,Cancelled,24.2,56.1,273.57,Private,Improved,
+E0021,2026-02-16,Northside Medical Centre,North,Primary Care,PT0024,65,X,P004,Completed,27.4,30.9,199.55,Public,Improved,4
+E0022,2026-02-18,River Valley Clinic,Central,Diabetes Education,PT0037,47,F,P011,Completed,16.1,46.4,180.46,Employer Plan,Stable,3
+E0023,2026-02-20,Westgate Health Hub,West,Cardiology,PT0050,58,X,P018,Completed,43.0,43.6,366.29,Private,Improved,
+E0024,2026-02-22,South Edmonton Care Centre,South,Sleep Clinic,PT0063,,M,P007,Completed,46.2,80.0,273.05,Public,Improved,4
+E0025,2026-02-24,Northside Medical Centre,North,Respiratory,PT0076,42,X,P014,Completed,26.4,42.5,309.34,Employer Plan,Improved,4
+E0026,2026-02-26,River Valley Clinic,Central,Primary Care,PT0089,42,X,P003,Completed,28.5,44.1,205.29,Private,Stable,4
+E0027,2026-02-28,Westgate Health Hub,West,Sleep Clinic,PT0102,21,F,P010,Cancelled,39.8,53.5,351.48,Public,Stable,
+E0028,2026-03-02,South Edmonton Care Centre,South,Respiratory,PT0115,65,F,P017,Cancelled,36.8,21.0,302.13,Employer Plan,Improved,
+E0029,2026-03-04,Northside Medical Centre,North,Primary Care,PT0003,50,M,P006,Completed,23.2,26.3,145.56,Private,Stable,3
+E0030,2026-03-06,River Valley Clinic,Central,Diabetes Education,PT0016,33,F,P013,No Show,22.1,38.9,155.91,Public,Stable,
+E0031,2026-03-08,Westgate Health Hub,West,Cardiology,PT0029,31,F,P002,Cancelled,65.1,29.2,310.37,Employer Plan,Stable,
+E0032,2026-03-10,South Edmonton Care Centre,South,Sleep Clinic,PT0042,76,F,P009,Completed,53.4,83.4,328.08,Private,Stable,4
+E0033,2026-03-12,Northside Medical Centre,North,Respiratory,PT0055,,M,P016,Completed,48.8,47.2,222.17,Public,Improved,3
+E0034,2026-03-14,River Valley Clinic,Central,Primary Care,PT0068,44,X,P005,Completed,21.0,41.0,98.42,Employer Plan,Improved,3
+E0035,2026-03-16,Westgate Health Hub,West,Diabetes Education,PT0081,44,F,P012,Completed,28.5,14.9,118.65,Private,Improved,5
+E0036,2026-03-18,South Edmonton Care Centre,South,Respiratory,PT0094,74,F,P001,Completed,35.6,37.4,423.81,Public,Follow-up Required,3
+E0037,2026-03-20,Northside Medical Centre,North,Primary Care,PT0107,28,M,P008,Completed,46.8,38.1,158.18,Employer Plan,Improved,4
+E0038,2026-03-22,River Valley Clinic,Central,Diabetes Education,PT0120,76,X,P015,Completed,23.0,45.4,113.61,Private,Improved,3
+E0039,2026-03-24,Westgate Health Hub,West,Cardiology,PT0008,,F,P004,Completed,34.3,44.3,367.6,Public,Stable,4
+E0040,2026-03-26,South Edmonton Care Centre,South,Sleep Clinic,PT0021,63,F,P011,Completed,63.9,54.9,379.77,Employer Plan,Improved,4
+E0041,2026-03-28,Northside Medical Centre,North,Respiratory,PT0034,74,X,,Cancelled,25.9,28.1,258.57,Private,Improved,
+E0042,2026-03-30,River Valley Clinic,Central,Primary Care,PT0047,81,F,P007,Completed,19.5,32.8,117.76,Public,Stable,4
+E0043,2026-04-01,Westgate Health Hub,West,Diabetes Education,PT0060,26,X,P014,Completed,33.6,31.8,143.0,Employer Plan,Follow-up Required,5
+E0044,2026-04-03,South Edmonton Care Centre,South,Cardiology,PT0073,,M,P003,Completed,32.8,30.0,351.33,Private,Improved,5
+E0045,2026-04-05,Northside Medical Centre,North,Primary Care,PT0086,,X,P010,Completed,32.6,41.9,178.9,Public,Improved,5
+E0046,2026-04-07,River Valley Clinic,Central,Diabetes Education,PT0099,18,M,P017,Completed,37.4,28.7,111.61,Employer Plan,Improved,
+E0047,2026-04-09,Westgate Health Hub,West,Cardiology,PT0112,60,F,P006,Completed,42.5,40.0,376.43,Private,Follow-up Required,5
+E0048,2026-04-11,South Edmonton Care Centre,South,Sleep Clinic,PT0125,65,F,P013,Cancelled,54.4,59.5,324.83,Public,Follow-up Required,
+E0049,2026-04-13,Northside Medical Centre,North,Respiratory,PT0013,34,X,P002,Completed,24.1,47.4,332.06,Employer Plan,Stable,5
+E0050,2026-04-15,River Valley Clinic,Central,Primary Care,PT0026,48,F,P009,Completed,15.6,46.7,149.58,Private,Improved,5
+E0051,2026-04-17,Westgate Health Hub,West,Diabetes Education,PT0039,20,X,P016,Completed,37.4,36.0,208.99,Public,Stable,5
+E0052,2026-04-19,South Edmonton Care Centre,South,Cardiology,PT0052,19,M,P005,Completed,43.2,38.2,396.98,Employer Plan,Improved,4
+E0053,2026-04-21,Northside Medical Centre,North,Sleep Clinic,PT0065,46,M,P012,Completed,72.0,78.5,297.2,Private,Improved,5
+E0054,2026-04-23,River Valley Clinic,Central,Diabetes Education,PT0078,40,X,P001,Cancelled,38.0,52.4,200.0,Public,Improved,
+E0055,2026-04-25,Westgate Health Hub,West,Cardiology,PT0091,62,X,P008,Completed,54.4,55.6,397.18,Employer Plan,Improved,3
+E0056,2026-04-27,South Edmonton Care Centre,South,Sleep Clinic,PT0104,78,X,P015,Completed,55.9,42.0,352.37,Private,Stable,4
+E0057,2026-04-29,Northside Medical Centre,North,Respiratory,PT0117,46,F,P004,Cancelled,31.8,56.0,286.01,Public,Improved,
+E0058,2026-05-01,River Valley Clinic,Central,Primary Care,PT0005,,M,P011,Completed,32.2,44.6,196.74,Employer Plan,Improved,5
+E0059,2026-05-03,Westgate Health Hub,West,Diabetes Education,PT0018,22,F,P018,Completed,17.3,23.9,158.31,Private,Stable,4
+E0060,2026-05-05,South Edmonton Care Centre,South,Cardiology,PT0031,78,X,P007,Completed,25.5,31.2,362.19,Public,Improved,4
+E0061,2026-05-07,Northside Medical Centre,North,Sleep Clinic,PT0044,83,F,P014,Completed,49.4,55.7,238.83,Employer Plan,Improved,5
+E0062,2026-05-09,River Valley Clinic,Central,Respiratory,PT0057,32,M,P003,Cancelled,48.6,44.3,274.26,Private,Improved,
+E0063,2026-05-11,Westgate Health Hub,West,Cardiology,PT0070,53,X,P010,Completed,29.0,42.2,442.34,Public,Stable,4
+E0064,2026-05-13,South Edmonton Care Centre,South,Sleep Clinic,PT0083,55,X,P017,Completed,54.3,41.0,388.51,Employer Plan,Improved,5
+E0065,2026-05-15,Northside Medical Centre,North,Respiratory,PT0096,73,F,P006,Completed,37.3,44.8,253.84,Private,Improved,5
+E0066,2026-05-17,River Valley Clinic,Central,Primary Care,PT0109,26,M,P013,Completed,22.2,37.9,102.19,Public,Improved,5
+E0067,2026-05-19,Westgate Health Hub,West,Diabetes Education,PT0122,55,X,P002,Completed,44.1,23.2,206.48,Employer Plan,Stable,3
+E0068,2026-05-21,South Edmonton Care Centre,South,Cardiology,PT0010,68,F,P009,Completed,52.3,27.3,416.88,Private,Improved,5
+E0069,2026-05-23,Northside Medical Centre,North,Sleep Clinic,PT0023,40,F,P016,Completed,40.3,63.4,307.64,Public,Follow-up Required,
+E0070,2026-05-25,River Valley Clinic,Central,Respiratory,PT0036,78,X,P005,Completed,18.2,35.3,275.57,Employer Plan,Stable,5
+E0071,2026-05-27,Westgate Health Hub,West,Primary Care,PT0049,31,X,P012,Completed,30.8,66.9,133.73,Private,Follow-up Required,4
+E0072,2026-05-29,South Edmonton Care Centre,South,Sleep Clinic,PT0062,51,F,P001,Completed,47.8,49.5,322.53,Public,Improved,4
+E0073,2026-05-31,Northside Medical Centre,North,Respiratory,PT0075,21,F,P008,Cancelled,31.9,51.2,412.85,Employer Plan,Improved,
+E0074,2026-06-02,River Valley Clinic,Central,Primary Care,PT0088,56,F,P015,Completed,15.4,40.2,88.52,Private,Stable,5
+E0075,2026-01-05,Westgate Health Hub,West,Diabetes Education,PT0101,46,M,P004,Completed,33.3,70.9,175.61,Public,Improved,4
+E0076,2026-01-07,South Edmonton Care Centre,South,Cardiology,PT0114,26,X,P011,Cancelled,43.9,50.7,300.65,Employer Plan,Improved,
+E0077,2026-01-09,Northside Medical Centre,North,Sleep Clinic,PT0002,78,F,P018,No Show,52.5,42.1,300.97,Private,Stable,
+E0078,2026-01-11,River Valley Clinic,Central,Respiratory,PT0015,30,M,P007,Completed,46.3,17.6,266.99,Public,Follow-up Required,4
+E0079,2026-01-13,Westgate Health Hub,West,Primary Care,PT0028,69,X,P014,Completed,29.9,47.4,177.87,Employer Plan,Improved,5
+E0080,2026-01-15,South Edmonton Care Centre,South,Diabetes Education,PT0041,20,M,P003,Cancelled,16.7,44.4,210.34,Private,Improved,
+E0081,2026-01-17,Northside Medical Centre,North,Respiratory,PT0054,57,M,P010,Completed,22.6,32.3,375.61,Public,Stable,5
+E0082,2026-01-19,River Valley Clinic,Central,Primary Care,PT0067,77,M,,Completed,27.8,39.0,125.31,Employer Plan,Stable,4
+E0083,2026-01-21,Westgate Health Hub,West,Diabetes Education,PT0080,32,X,P006,Completed,26.9,35.7,187.79,Private,Improved,5
+E0084,2026-01-23,South Edmonton Care Centre,South,Cardiology,PT0093,73,F,P013,No Show,54.9,15.2,489.08,Public,Stable,
+E0085,2026-01-25,Northside Medical Centre,North,Sleep Clinic,PT0106,31,X,P002,Cancelled,45.9,59.8,341.71,Employer Plan,Stable,
+E0086,2026-01-27,River Valley Clinic,Central,Respiratory,PT0119,44,X,P009,Completed,41.6,25.6,256.25,Private,Follow-up Required,4
+E0087,2026-01-29,Westgate Health Hub,West,Primary Care,PT0007,81,F,P016,Completed,14.6,12.1,84.21,Public,Stable,5
+E0088,2026-01-31,South Edmonton Care Centre,South,Diabetes Education,PT0020,53,M,P005,Completed,45.1,41.9,253.26,Employer Plan,Improved,5
+E0089,2026-02-02,Northside Medical Centre,North,Cardiology,PT0033,51,M,P012,Cancelled,51.2,39.9,360.18,Private,Stable,
+E0090,2026-02-04,River Valley Clinic,Central,Primary Care,PT0046,42,M,P001,Completed,26.2,45.8,67.94,Public,Stable,5
+E0091,2026-02-06,Westgate Health Hub,West,Diabetes Education,PT0059,79,F,P008,Completed,40.6,66.7,224.56,Employer Plan,Improved,5
+E0092,2026-02-08,South Edmonton Care Centre,South,Cardiology,PT0072,22,F,P015,Completed,42.6,43.7,433.41,Private,Stable,
+E0093,2026-02-10,Northside Medical Centre,North,Sleep Clinic,PT0085,,F,P004,Completed,53.7,49.6,307.95,Public,Improved,5
+E0094,2026-02-12,River Valley Clinic,Central,Respiratory,PT0098,84,F,P011,Completed,46.0,26.9,290.72,Employer Plan,Improved,4
+E0095,2026-02-14,Westgate Health Hub,West,Primary Care,PT0111,68,F,P018,Completed,23.8,40.3,142.81,Private,Stable,5
+E0096,2026-02-16,South Edmonton Care Centre,South,Diabetes Education,PT0124,35,X,P007,Completed,34.7,53.1,187.83,Public,Stable,4
+E0097,2026-02-18,Northside Medical Centre,North,Cardiology,PT0012,82,X,P014,Completed,30.2,61.8,327.35,Employer Plan,Improved,4
+E0098,2026-02-20,River Valley Clinic,Central,Sleep Clinic,PT0025,64,X,P003,Cancelled,55.6,56.0,369.11,Private,Improved,
+E0099,2026-02-22,Westgate Health Hub,West,Diabetes Education,PT0038,44,X,P010,Completed,14.5,30.9,132.49,Public,Follow-up Required,4
+E0100,2026-02-24,South Edmonton Care Centre,South,Cardiology,PT0051,40,M,P017,Completed,28.8,28.3,434.87,Employer Plan,Improved,5
+E0101,2026-02-26,Northside Medical Centre,North,Sleep Clinic,PT0064,56,F,P006,Completed,64.3,56.9,412.52,Private,Improved,4
+E0102,2026-02-28,River Valley Clinic,Central,Respiratory,PT0077,59,X,P013,Completed,23.2,54.9,217.76,Public,Stable,4
+E0103,2026-03-02,Westgate Health Hub,West,Primary Care,PT0090,69,M,P002,Completed,16.6,25.5,95.83,Employer Plan,Improved,4
+E0104,2026-03-04,South Edmonton Care Centre,South,Diabetes Education,PT0103,66,F,P009,Completed,32.7,34.5,222.98,Private,Follow-up Required,5
+E0105,2026-03-06,Northside Medical Centre,North,Cardiology,PT0116,48,M,P016,Completed,40.1,10,283.37,Public,Improved,3
+E0106,2026-03-08,River Valley Clinic,Central,Sleep Clinic,PT0004,31,X,P005,Completed,46.7,37.4,323.06,Employer Plan,Improved,3
+E0107,2026-03-10,Westgate Health Hub,West,Respiratory,PT0017,26,M,P012,Completed,34.9,45.6,239.61,Private,Improved,4
+E0108,2026-03-12,South Edmonton Care Centre,South,Cardiology,PT0030,43,M,P001,Cancelled,39.3,60.0,307.63,Public,Improved,
+E0109,2026-03-14,Northside Medical Centre,North,Sleep Clinic,PT0043,48,F,P008,Completed,61.2,48.3,417.96,Employer Plan,Stable,5
+E0110,2026-03-16,River Valley Clinic,Central,Respiratory,PT0056,25,F,P015,Completed,52.3,29.8,309.98,Private,Improved,4
+E0111,2026-03-18,Westgate Health Hub,West,Primary Care,PT0069,29,M,P004,Completed,29.7,42.7,126.39,Public,Stable,5
+E0112,2026-03-20,South Edmonton Care Centre,South,Diabetes Education,PT0082,57,X,P011,Completed,32.2,34.7,233.01,Employer Plan,Follow-up Required,5
+E0113,2026-03-22,Northside Medical Centre,North,Cardiology,PT0095,72,M,P018,Cancelled,43.1,30.1,390.97,Private,Follow-up Required,
+E0114,2026-03-24,River Valley Clinic,Central,Sleep Clinic,PT0108,68,F,P007,Completed,46.3,73.2,359.86,Public,Stable,4
+E0115,2026-03-26,Westgate Health Hub,West,Respiratory,PT0121,74,X,P014,Completed,27.8,39.5,321.97,Employer Plan,Improved,
+E0116,2026-03-28,South Edmonton Care Centre,South,Primary Care,PT0009,33,M,P003,Completed,22.2,32.8,112.7,Private,Stable,5
+E0117,2026-03-30,Northside Medical Centre,North,Sleep Clinic,PT0022,77,F,P010,Cancelled,47.5,22.8,305.74,Public,Stable,
+E0118,2026-04-01,River Valley Clinic,Central,Respiratory,PT0035,20,X,P017,No Show,43.0,21.6,361.78,Employer Plan,Improved,
+E0119,2026-04-03,Westgate Health Hub,West,Primary Care,PT0048,36,F,P006,Completed,29.8,46.1,60,Private,Improved,5
+E0120,2026-04-05,South Edmonton Care Centre,South,Diabetes Education,PT0061,39,X,P013,Completed,31.8,34.6,126.04,Public,Improved,5
+E0121,2026-04-07,Northside Medical Centre,North,Cardiology,PT0074,29,F,P002,Completed,38.0,29.1,380.77,Employer Plan,Stable,4
+E0122,2026-04-09,River Valley Clinic,Central,Sleep Clinic,PT0087,50,F,P009,Completed,61.5,72.3,356.94,Private,Improved,4
+E0123,2026-04-11,Westgate Health Hub,West,Respiratory,PT0100,55,F,,Completed,22.7,46.5,315.92,Public,Improved,5
+E0124,2026-04-13,South Edmonton Care Centre,South,Primary Care,PT0113,85,X,P005,Completed,21.2,52.1,129.83,Employer Plan,Improved,4
+E0125,2026-04-15,Northside Medical Centre,North,Diabetes Education,PT0001,45,F,P012,Completed,24.9,45.8,318.35,Private,Improved,4
+E0126,2026-04-17,River Valley Clinic,Central,Respiratory,PT0014,50,F,P001,Completed,42.0,44.8,329.41,Public,Stable,4
+E0127,2026-04-19,Westgate Health Hub,West,Primary Care,PT0027,56,X,P008,Completed,19.9,32.4,73.26,Employer Plan,Improved,4
+E0128,2026-04-21,South Edmonton Care Centre,South,Diabetes Education,PT0040,75,X,P015,Completed,31.2,25.3,72.73,Private,Stable,3
+E0129,2026-04-23,Northside Medical Centre,North,Cardiology,PT0053,32,M,P004,Completed,37.1,45.3,398.3,Public,Improved,4
+E0130,2026-04-25,River Valley Clinic,Central,Sleep Clinic,PT0066,52,F,P011,Completed,44.6,68.0,377.65,Employer Plan,Stable,5
+E0131,2026-04-27,Westgate Health Hub,West,Respiratory,PT0079,77,M,P018,Completed,30.9,16.2,224.82,Private,Improved,4
+E0132,2026-04-29,South Edmonton Care Centre,South,Primary Care,PT0092,40,F,P007,Cancelled,13.3,45.1,60,Public,Improved,
+E0133,2026-05-01,Northside Medical Centre,North,Diabetes Education,PT0105,42,X,P014,Completed,38.2,49.4,254.8,Employer Plan,Improved,4
+E0134,2026-05-03,River Valley Clinic,Central,Cardiology,PT0118,79,X,P003,Completed,62.7,33.7,382.23,Private,Stable,5
+E0135,2026-05-05,Westgate Health Hub,West,Primary Care,PT0006,64,F,P010,Completed,4,23.8,130.5,Public,Improved,5
+E0136,2026-05-07,South Edmonton Care Centre,South,Diabetes Education,PT0019,81,M,P017,Completed,31.5,47.3,196.54,Employer Plan,Improved,5
+E0137,2026-05-09,Northside Medical Centre,North,Cardiology,PT0032,,M,P006,Completed,52.5,12.2,366.65,Private,Stable,4
+E0138,2026-05-11,River Valley Clinic,Central,Sleep Clinic,PT0045,27,M,P013,No Show,46.3,60.6,315.13,Public,Improved,
+E0139,2026-05-13,Westgate Health Hub,West,Respiratory,PT0058,22,M,P002,Completed,28.7,21.9,250.99,Employer Plan,Stable,3
+E0140,2026-05-15,South Edmonton Care Centre,South,Primary Care,PT0071,41,M,P009,Completed,19.1,53.1,124.47,Private,Improved,3
+E0141,2026-05-17,Northside Medical Centre,North,Diabetes Education,PT0084,57,X,P016,Completed,54.3,66.1,137.05,Public,Stable,5
+E0142,2026-05-19,River Valley Clinic,Central,Cardiology,PT0097,50,F,P005,Completed,51.8,36.7,353.41,Employer Plan,Improved,4
+E0143,2026-05-21,Westgate Health Hub,West,Sleep Clinic,PT0110,31,M,P012,Completed,59.1,47.6,317.37,Private,Improved,4
+E0144,2026-05-23,South Edmonton Care Centre,South,Diabetes Education,PT0123,,F,P001,Completed,27.7,39.3,144.11,Public,Stable,4
+E0145,2026-05-25,Northside Medical Centre,North,Cardiology,PT0011,40,X,P008,Completed,60.6,51.6,500.38,Employer Plan,Stable,4
+E0146,2026-05-27,River Valley Clinic,Central,Sleep Clinic,PT0024,,M,P015,Cancelled,40.9,59.6,410.59,Private,Stable,
+E0147,2026-05-29,Westgate Health Hub,West,Respiratory,PT0037,67,F,P004,Cancelled,40.0,54.5,248.68,Public,Improved,
+E0148,2026-05-31,South Edmonton Care Centre,South,Primary Care,PT0050,36,F,P011,Completed,31.6,44.6,107.71,Employer Plan,Improved,3
+E0149,2026-06-02,Northside Medical Centre,North,Diabetes Education,PT0063,46,M,P018,Completed,23.6,44.7,130.45,Private,Improved,4
+E0150,2026-01-05,River Valley Clinic,Central,Cardiology,PT0076,64,X,P007,Completed,57.6,43.9,414.26,Public,Stable,5
+E0151,2026-01-07,Westgate Health Hub,West,Sleep Clinic,PT0089,82,X,P014,Completed,44.9,52.1,257.7,Employer Plan,Stable,5
+E0152,2026-01-09,South Edmonton Care Centre,South,Respiratory,PT0102,54,F,P003,Completed,33.5,53.5,198.91,Private,Improved,4
+E0153,2026-01-11,Northside Medical Centre,North,Cardiology,PT0115,59,X,P010,Completed,37.6,18.7,347.0,Public,Follow-up Required,4
+E0154,2026-01-13,River Valley Clinic,Central,Sleep Clinic,PT0003,83,X,P017,Completed,53.5,49.1,290.06,Employer Plan,Improved,5
+E0155,2026-01-15,Westgate Health Hub,West,Respiratory,PT0016,72,X,P006,Completed,19.8,59.4,280.12,Private,Follow-up Required,5
+E0156,2026-01-17,South Edmonton Care Centre,South,Primary Care,PT0029,79,F,P013,Cancelled,25.8,36.4,108.08,Public,Improved,
+E0157,2026-01-19,Northside Medical Centre,North,Diabetes Education,PT0042,53,M,P002,No Show,6.5,41.1,129.27,Employer Plan,Improved,
+E0158,2026-01-21,River Valley Clinic,Central,Cardiology,PT0055,40,X,P009,Completed,45.8,28.3,447.08,Private,Stable,5
+E0159,2026-01-23,Westgate Health Hub,West,Sleep Clinic,PT0068,57,M,P016,Completed,53.4,48.8,422.04,Public,Follow-up Required,3
+E0160,2026-01-25,South Edmonton Care Centre,South,Respiratory,PT0081,84,X,P005,Completed,23.0,47.2,227.07,Employer Plan,Improved,5
+E0161,2026-01-27,Northside Medical Centre,North,Primary Care,PT0094,38,F,P012,Cancelled,21.5,55.0,191.8,Private,Improved,
+E0162,2026-01-29,River Valley Clinic,Central,Sleep Clinic,PT0107,57,X,P001,Completed,54.2,64.6,289.09,Public,Follow-up Required,5
+E0163,2026-01-31,Westgate Health Hub,West,Respiratory,PT0120,,M,P008,Completed,25.7,49.7,249.45,Employer Plan,Follow-up Required,3
+E0164,2026-02-02,South Edmonton Care Centre,South,Primary Care,PT0008,,F,,Completed,24.5,38.9,98.68,Private,Follow-up Required,5
+E0165,2026-02-04,Northside Medical Centre,North,Diabetes Education,PT0021,62,X,P004,Completed,21.7,35.8,162.0,Public,Improved,4
+E0166,2026-02-06,River Valley Clinic,Central,Cardiology,PT0034,69,F,P011,Completed,24.2,17.2,346.78,Employer Plan,Follow-up Required,4
+E0167,2026-02-08,Westgate Health Hub,West,Sleep Clinic,PT0047,71,X,P018,Completed,32.4,55.6,317.65,Private,Stable,4
+E0168,2026-02-10,South Edmonton Care Centre,South,Respiratory,PT0060,43,F,P007,Completed,31.7,30.4,319.82,Public,Follow-up Required,5
+E0169,2026-02-12,Northside Medical Centre,North,Primary Care,PT0073,48,X,P014,Completed,14.3,72.3,76.61,Employer Plan,Improved,5
+E0170,2026-02-14,River Valley Clinic,Central,Diabetes Education,PT0086,29,X,P003,Completed,36.4,10.3,201.58,Private,Stable,5
+E0171,2026-02-16,Westgate Health Hub,West,Respiratory,PT0099,45,M,P010,No Show,41.8,45.7,367.75,Public,Improved,
+E0172,2026-02-18,South Edmonton Care Centre,South,Primary Care,PT0112,82,X,P017,Completed,44.9,34.1,111.11,Employer Plan,Improved,4
+E0173,2026-02-20,Northside Medical Centre,North,Diabetes Education,PT0125,54,F,P006,Completed,29.1,35.1,192.77,Private,Improved,5
+E0174,2026-02-22,River Valley Clinic,Central,Cardiology,PT0013,27,F,P013,Completed,43.1,38.7,295.28,Public,Improved,5
+E0175,2026-02-24,Westgate Health Hub,West,Sleep Clinic,PT0026,27,F,P002,Completed,44.8,55.6,312.31,Employer Plan,Follow-up Required,5
+E0176,2026-02-26,South Edmonton Care Centre,South,Respiratory,PT0039,58,X,P009,Completed,38.3,44.0,307.35,Private,Stable,3
+E0177,2026-02-28,Northside Medical Centre,North,Primary Care,PT0052,65,M,P016,Cancelled,31.4,45.8,159.44,Public,Stable,
+E0178,2026-03-02,River Valley Clinic,Central,Diabetes Education,PT0065,23,F,P005,Cancelled,35.7,50.1,173.76,Employer Plan,Follow-up Required,
+E0179,2026-03-04,Westgate Health Hub,West,Cardiology,PT0078,73,X,P012,Completed,31.1,29.9,453.93,Private,Improved,5
+E0180,2026-03-06,South Edmonton Care Centre,South,Primary Care,PT0091,50,F,P001,Completed,30.3,31.2,94.48,Public,Improved,5
